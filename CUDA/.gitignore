@@ -1,0 +1,5 @@
+# compilation outputs
+**/*.exe
+**/*.exp
+**/*.lib
+**/*.o

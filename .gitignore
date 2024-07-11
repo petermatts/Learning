@@ -1,0 +1,7 @@
+# Setup stuff
+**/*.vscode
+
+# Compiled stuff
+**/*.o
+**/*.exe
+**/*.class

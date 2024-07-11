@@ -1,0 +1,4 @@
+https://graphviz.org/documentation/
+
+run:
+dot -Tpdf g.dot -o graph.pdf
