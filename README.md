@@ -67,7 +67,7 @@ Within this folder there are 2 project folders, a default truffle example projec
 
 ### Slideshow
 
-I made a breif google slides that aims to explain the basis of how crypto currency works.
+I made a breif google slides that aims to explain the basis of how cryptocurrency works.
 
 [Click here for slides](https://docs.google.com/presentation/d/1A-kybBkG2lw1iO6qyywTAImklQ_yI9XctO-q7yy05p0/edit?usp=sharing)
 <!-- <a rel='nofollow' href='https://www.qr-code-generator.com' border='0' style='cursor:default'><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1A-kybBkG2lw1iO6qyywTAImklQ_yI9XctO-q7yy05p0%2Fedit%3Fusp%3Dsharing&chs=180x180&choe=UTF-8&chld=L|2' alt=''></a> -->
