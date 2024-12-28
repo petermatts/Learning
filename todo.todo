@@ -1,3 +1,7 @@
-- [] Continue learning CMake
-- [] Learn docker
-- [] Go through Pennylane QML demos, learn the API 
+- [ ] Continue learning CMake
+- [ ] Learn docker
+- [ ] Go through Pennylane QML demos, learn the API 
+    - [ ] Maybe make a mini working example of using Shor's algorithm to break a simplified RSA
+- [x] Make Other Useful Knowledge Folder
+    - [x] Instagram API interfacing
+    - [ ] Python dunder notes
