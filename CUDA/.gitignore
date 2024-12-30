@@ -3,3 +3,6 @@
 **/*.exp
 **/*.lib
 **/*.o
+
+# reference
+Refs
