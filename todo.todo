@@ -4,4 +4,5 @@
     - [ ] Maybe make a mini working example of using Shor's algorithm to break a simplified RSA
 - [x] Make Other Useful Knowledge Folder
     - [x] Instagram API interfacing
-    - [ ] Python dunder notes
+    - [x] Python dunder notes
+    - [ ] PyTorch ease of use code
